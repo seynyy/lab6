@@ -12,3 +12,4 @@ C:\Projects\lab6\obj\Debug\net8.0\refint\lab6.dll
 C:\Projects\lab6\obj\Debug\net8.0\lab6.pdb
 C:\Projects\lab6\obj\Debug\net8.0\lab6.genruntimeconfig.cache
 C:\Projects\lab6\obj\Debug\net8.0\ref\lab6.dll
+C:\Projects\lab6\obj\Debug\net8.0\lab6.sourcelink.json
